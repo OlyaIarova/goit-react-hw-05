@@ -1,0 +1,18 @@
+.container {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+.title {
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 16px;
+  color: #031515;
+}
+.input {
+  width: 420px;
+  height: 40px;
+  padding-left: 12px;
+  border-radius: 8px;
+  border: 1px solid #AFEEEE;
+  outline: #00FFFF ridge 1px;
+}

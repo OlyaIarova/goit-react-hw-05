@@ -1,0 +1,50 @@
+.container {
+  background-color: #E0FFFF;
+  padding: 8px 28px;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+.item {
+  display: flex;
+  gap: 24px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #E0FFFF;
+  margin: 40px 0;
+  text-align: justify;
+}
+.img {
+  width: 80px;
+  height: 80px;
+  padding: 3px;
+  border: 1px solid   #AFEEEE;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 80%;
+}
+.nameBox {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 12px;
+}
+.name {
+  color: #031515;
+  font-size: 16px;
+}
+.content {
+  font-size: 16px;
+}
+
+.text {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 20px;
+  color:  #031515;
+}

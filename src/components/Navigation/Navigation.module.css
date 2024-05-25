@@ -1,0 +1,30 @@
+.isActive {
+  background-color: #d4f0eb;
+  border-radius: 8px;
+  padding: 4px 16px;
+}
+.header {
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 24px;
+  box-shadow: 0 0 20px #00CED1;
+  background-color: #AFEEEE;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+}
+.link {
+  color:  #031515;
+  font-size: 24px;
+  font-weight: 600;
+}
+.link:hover,
+.link:focus {
+  color: #17C4DF;
+}
