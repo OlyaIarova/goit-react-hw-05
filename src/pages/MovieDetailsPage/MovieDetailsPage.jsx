@@ -23,7 +23,7 @@ export default function MovieDetailsPage() {
   const backLinkRef = useRef(location.state ?? '/');
 
   const defaultImg =
-    'https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg';
+    'https://img.freepik.com/premium-vector/no-camera-vector-icon-illustration-of-cinema-iconset_904970-10868.jpg?w=360';
 
   useEffect(() => {
     const getData = async () => {

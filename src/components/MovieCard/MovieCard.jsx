@@ -4,7 +4,7 @@ export default function MovieCard({
   movie: { title, poster_path, vote_average },
 }) {
   const defaultImg =
-    'https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg';
+    'https://img.freepik.com/premium-vector/no-camera-vector-icon-illustration-of-cinema-iconset_904970-10868.jpg?w=360';
 
   return (
     <div>

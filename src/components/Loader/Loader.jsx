@@ -8,7 +8,7 @@ const Loader = () => {
         visible={true}
         height="80"
         width="80"
-        color="#0890a8"
+        color="#05F9BA"
         ariaLabel="tail-spin-loading"
         radius="1"
         wrapperStyle={{}}
